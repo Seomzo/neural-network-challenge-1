@@ -1,2 +1,2 @@
-### Neural Networks Part 1
+# Neural Networks Part 1
 ## By Omar Alsadoon
